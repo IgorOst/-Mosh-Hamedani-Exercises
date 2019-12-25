@@ -1,2 +1,2 @@
-# -Mosh-Hamedani-Exercises
+# Mosh-Hamedani-Exercises
 Solution to Mosh Hamedani Exercises
